@@ -6,7 +6,6 @@
 
 *Note the the reverse engineering of the HVAC protocol has been managed using AnalySIR software.
 
-*This code is code is published under Creative Commons license : CC-BY-NC-SA
 
 
 #Overview of Protocol and features managed

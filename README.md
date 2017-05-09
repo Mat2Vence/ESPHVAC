@@ -1,8 +1,9 @@
 #ESP HVAC
 
 ##Introduction
-*This code aims to control a Panassonic HVAC over the internet. This project has been achieved with the help of Vincent Cruvellier (https://github.com/r45635) and this code is based on the version he built for his Mitsubishi HVAC.
-*This code was initially developed to work with classical Arduino board and has been then ported to an ESP based board.
+*This code aims to control a Panassonic HVAC over the internet through WIFI. This project is based on the work I did perform to reverse-engoinner my Mitsubishi HVAC, and which result was intially merged on the Vincent's project (https://github.com/r45635).
+*The code is written to work with a nodeMCU plateform (ESP8266 based) for the IoT part. The system is then built in order to work with Domoticz in order to control the HVAC from a global home atuomation system.
+
 *Note the the reverse engineering of the HVAC protocol has been managed using AnalySIR software.
 
 *This code is code is published under Creative Commons license : CC-BY-NC-SA
